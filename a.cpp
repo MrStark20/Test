@@ -4,6 +4,7 @@
 
 // git feature 
 //1.git add . "file name" or( "." for everything)
+//1.5git status
 //2.git commit -m "first commit"
 //2.5git branch -M main (for first time only implementation)
 //3git push -u origin main
