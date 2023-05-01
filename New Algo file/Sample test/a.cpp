@@ -8,4 +8,3 @@
 //2.git commit -m "first commit"
 //2.5git branch -M main (for first time only implementation)
 //3git push -u origin main
-// 4git status
